@@ -1,52 +1,76 @@
 {
   "data": [
     {
-      "id": 1,
-      "name": "线路1",
+      "id": 19,
+      "name": "音萌",
       "ad": "no",
-      "url": "https://okjx.cc/?url="
+      "url": "https://api.v6.chat/?url="
+    },
+     {
+      "id": 19,
+      "name": "arwix解析",
+      "ad": "no",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+     {
+      "id": 19,
+      "name": "江湖",
+      "ad": "no",
+      "url": "https://api.jhdyw.vip/?url="
+    },
+     {
+      "id": 19,
+      "name": "明日",
+      "ad": "no",
+      "url": "https://jx.yingxiangbao.cn/vip.php?url="
+    },
+     {
+      "id": 19,
+      "name": "久播",
+      "ad": "no",
+      "url": "https://jx.jiubojx.com/vip.php?url="
+    },
+     {
+      "id": 19,
+      "name": "七解析",
+      "ad": "no",
+      "url": "https://kkbia.com/?url="
+    },
+     {
+      "id": 19,
+      "name": "蓝猫",
+      "ad": "no",
+      "url": "https://jx.daidaitv.top:43810/?url="
+    },
+     {
+      "id": 19,
+      "name": "TH",
+      "ad": "no",
+      "url": "https://api.0xu.cc/?url="
+    },
+     {
+      "id": 19,
+      "name": "B站解析1",
+      "ad": "no",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+     {
+      "id": 19,
+      "name": "B站解析2",
+      "ad": "no",
+      "url": "https://www.cuan.la/m3u8.php?url="
     },
     {
-      "id": 1,
-      "name": "线路2",
+      "id": 19,
+      "name": "暮光解析",
       "ad": "no",
-      "url": "http://jx.618ge.com/?url="
+      "url": "https://www.mgtv.com.muguangys.com/jiexi.php?url="
     },
     {
-      "id": 1,
-      "name": "线路3",
+      "id": 19,
+      "name": "jsonm3u8",
       "ad": "no",
-      "url": "https://jx.618g.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路4",
-      "ad": "no",
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路5",
-      "ad": "no",
-      "url": "https://api.10dy.net/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路6",
-      "ad": "no",
-      "url": "https://jx.elwtc.com/vip/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路7",
-      "ad": "no",
-      "url": "https://www.ckmov.vip/api.php?url="
-    },
-    {
-      "id": 1,
-      "name": "线路8",
-      "ad": "no",
-      "url": "https://jx.000180.top/jx/?url="
+      "url": "https://json.m3u8.tv:7788/json.php?url="
     }
   ]
 }
