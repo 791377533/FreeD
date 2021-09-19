@@ -2,15 +2,75 @@
   "data": [
     {
       "id": 19,
-      "name": "自定义1",
+      "name": "音萌",
       "ad": "no",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
+      "url": "https://api.v6.chat/?url="
+    },
+     {
+      "id": 19,
+      "name": "arwix解析",
+      "ad": "no",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+     {
+      "id": 19,
+      "name": "江湖",
+      "ad": "no",
+      "url": "https://api.jhdyw.vip/?url="
+    },
+     {
+      "id": 19,
+      "name": "明日",
+      "ad": "no",
+      "url": "https://jx.yingxiangbao.cn/vip.php?url="
+    },
+     {
+      "id": 19,
+      "name": "久播",
+      "ad": "no",
+      "url": "https://jx.jiubojx.com/vip.php?url="
+    },
+     {
+      "id": 19,
+      "name": "七解析",
+      "ad": "no",
+      "url": "https://kkbia.com/?url="
+    },
+     {
+      "id": 19,
+      "name": "蓝猫",
+      "ad": "no",
+      "url": "https://jx.daidaitv.top:43810/?url="
+    },
+     {
+      "id": 19,
+      "name": "TH",
+      "ad": "no",
+      "url": "https://api.0xu.cc/?url="
+    },
+     {
+      "id": 19,
+      "name": "B站解析1",
+      "ad": "no",
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+     {
+      "id": 19,
+      "name": "B站解析2",
+      "ad": "no",
+      "url": "https://www.cuan.la/m3u8.php?url="
     },
     {
       "id": 19,
-      "name": "自定义2",
+      "name": "暮光解析",
       "ad": "no",
-      "url": "https://sb.5gseo.net/?url="
+      "url": "https://www.mgtv.com.muguangys.com/jiexi.php?url="
+    },
+    {
+      "id": 19,
+      "name": "jsonm3u8",
+      "ad": "no",
+      "url": "https://json.m3u8.tv:7788/json.php?url="
     }
   ]
 }
